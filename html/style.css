@@ -1,0 +1,15 @@
+h1 {
+  font-size: 25px;
+  color: red;
+}
+p {
+  text-align: justify;
+  font-weight: 900;
+}
+div {
+  width: 346px;
+  background-color: red;
+  margin: 45px;
+}
+.one {
+}
